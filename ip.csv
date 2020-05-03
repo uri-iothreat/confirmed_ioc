@@ -13,3 +13,4 @@ IP Address,Tags,Description
 79.141.243.184,Server; Linux; WordPress; Webshell; PHP,"Cybercriminal exploits unpactched WordPress plugins, installs webshells and distributes spam."
 52.19.15.26,Server; Linux; WordPress; Webshell; PHP,"Cybercriminal exploits unpactched WordPress plugins, installs webshells and distributes spam."
 130.105.196.147,Server; Linux; WordPress; Webshell; PHP,"Cybercriminal exploits unpactched WordPress plugins, installs webshells and distributes spam."
+35.198.236.40,Server; Linux; WordPress; Webshell; PHP,"Cybercriminal executes file enumeration attack using a dictionary of known webshell filenames."
